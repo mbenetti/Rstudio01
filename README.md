@@ -1,4 +1,4 @@
 
 # MITx.15.071x_2T2017.
 
-MITx's The Analytics Edge.
+Trainin material and scrips from the MITx's The Analytics Edge.
